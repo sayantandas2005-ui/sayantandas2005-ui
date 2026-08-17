@@ -51,6 +51,19 @@ Software development work involving object-oriented programming, backend technol
 
 **Technologies:** Java · C++ · Python · Flask · SQLAlchemy · JPA/Hibernate · Maven · Git/GitHub
 
+## 🧪 Practical Skill Demonstrations
+
+I maintain small, readable examples demonstrating practical use of several programming and scientific-computing skills. These are **skill demonstrations**, not fabricated claims of separate production projects.
+
+- [Python ML Demo](skill-demos/python_ml_demo.py) — NumPy, pandas, scikit-learn and model evaluation
+- [C++ Demo](skill-demos/cpp_demo.cpp) — STL and numerical processing
+- [Java Demo](skill-demos/java_demo.java) — OOP, collections and streams
+- [C Demo](skill-demos/c_demo.c) — arrays, loops and numerical computation
+- [R Demo](skill-demos/r_demo.R) — descriptive statistics
+- [MATLAB Demo](skill-demos/matlab_numerical_demo.m) — numerical methods
+- [Web Demo](skill-demos/web_demo/) — HTML, CSS and JavaScript
+- [Skill Demo Documentation](skill-demos/README.md) — computational-biology workflow areas and demonstration notes
+
 ## 📚 Academic Areas
 
 - Machine Learning & Deep Learning
